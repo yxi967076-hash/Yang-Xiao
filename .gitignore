@@ -1,0 +1,19 @@
+node_modules/
+dist/
+*.local
+.DS_Store
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+.vercel/
+*.log
+.source-review.local/
+
+# 原始参考文档与凭据不上传
+*.docx
+*.doc
+*.pem
+*.key
+*.pfx
+*.p12
